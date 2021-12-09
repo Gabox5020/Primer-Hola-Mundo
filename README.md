@@ -3,6 +3,6 @@
 ## Hello World
 ---
 
-### Descripcion
+### Description
 
 - My first `Hello World`
