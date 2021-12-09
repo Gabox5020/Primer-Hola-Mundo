@@ -1,8 +1,6 @@
-<!-- HEADINGS -->
-
-## Primer Hola Mundo
+## Hello World
 ---
 
 ### Descripcion
 
-- My first `Hola Mundo`
+- My first `Hello World`
